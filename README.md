@@ -76,7 +76,9 @@ Computer Science 핵심 이론 및 웹/소프트웨어 공학 기본기를 공�
   - [슬라이딩 윈도우 (Sliding Window)](./Algorithm/Two_Pointers/Sliding_Window.md)
 - **Dynamic Programming (DP)**
   - [동적계획법 (Dynamic Programming)](./Algorithm/DP/Dynamic_Programming.md)
-- *추가 예정*: DFS / BFS, Backtracking, Binary Search, Graph, etc.
+- **Backtracking**
+  - [백트래킹으로 푸는 N-Queen과 부분집합의 합](./Algorithm/Backtracking/Backtracking.md)
+- *추가 예정*: DFS / BFS, Binary Search, Graph, etc.
 
 👉 [Algorithm 디렉토리 바로가기](./Algorithm/README.md)
 
