@@ -22,6 +22,7 @@ Computer Science 기본 개념 및 실무 웹/소프트웨어 공학 지식을 �
 - [MVCC와 Read View](./Database/MVCC-and-Read-View.md)
 - [Phantom Read와 InnoDB 잠금 메커니즘](./Database/Phantom-Read-and-InnoDB-Locks.md)
 - [Redis 캐시와 만료 시간](./Database/redis.md)
+- [MySQL 기본 함수](./Database/MySQL-Basic-Functions.md)
 
 ### 🌐 Network (네트워크)
 - [IPv4 주소 체계와 서브넷팅(Subnetting)](./Network/ipv4-subnetting.md)

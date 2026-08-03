@@ -28,6 +28,7 @@ Computer Science 핵심 이론 및 웹/소프트웨어 공학 기본기를 공�
   - [MVCC와 Read View](./CS/Database/MVCC-and-Read-View.md)
   - [Phantom Read와 InnoDB 잠금 메커니즘](./CS/Database/Phantom-Read-and-InnoDB-Locks.md)
   - [Redis 캐시와 만료 시간](./CS/Database/redis.md)
+  - [MySQL 기본 함수](./CS/Database/MySQL-Basic-Functions.md)
 - **Network**
   - [IPv4 주소 체계와 서브넷팅(Subnetting)](./CS/Network/ipv4-subnetting.md)
   - [클라우드 서비스 (Cloud Service)](./CS/Network/Cloud_Service.md)
