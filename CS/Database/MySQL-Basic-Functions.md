@@ -84,7 +84,3 @@ WHERE DATETIME = (SELECT MIN(DATETIME) FROM ANIMAL_INS);
 | 세 번째 글자부터 두 글자 추출 | `SUBSTRING('AB1234', 3, 2)` | `12` |
 | 문자열 연결 | `CONCAT('서울', '-', 'AB12')` | `서울-AB12` |
 
-## 참고 문서
-
-- [MySQL 날짜·시간 함수](https://dev.mysql.com/doc/refman/8.4/en/date-and-time-functions.html)
-- [MySQL 집계 함수](https://dev.mysql.com/doc/refman/8.4/en/aggregate-functions.html)
