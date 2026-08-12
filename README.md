@@ -88,6 +88,7 @@ Computer Science 핵심 이론 및 웹/소프트웨어 공학 기본기를 공�
 
 - **Spring**
   - [Spring과 Spring Boot의 차이](./Backend/Spring/Spring-and-Spring-Boot.md)
+  - [JWT 인증과 Spring Security](./Backend/Spring/JWT.md)
 
 👉 [Backend 디렉토리 바로가기](./Backend/README.md)
 
