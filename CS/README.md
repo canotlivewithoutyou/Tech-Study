@@ -21,11 +21,13 @@ Computer Science 기본 개념 및 실무 웹/소프트웨어 공학 지식을 �
 - [트랜잭션과 격리 수준](./Database/Transaction-and-Isolation.md)
 - [MVCC와 Read View](./Database/MVCC-and-Read-View.md)
 - [Phantom Read와 InnoDB 잠금 메커니즘](./Database/Phantom-Read-and-InnoDB-Locks.md)
+- [Redis 캐시와 만료 시간](./Database/redis.md)
 
 ### 🌐 Network (네트워크)
 - [IPv4 주소 체계와 서브넷팅(Subnetting)](./Network/ipv4-subnetting.md)
 - [클라우드 서비스 (Cloud Service)](./Network/Cloud_Service.md)
 - [코드 오류 유형](./Network/data-error-types.md)
+- [WebSocket (웹소켓)](./Network/WebSocket.md)
 
 ### 🛡️ Security (정보 보안)
 - [정보 보안 기본 개념](./Security/information-security-basics.md)
