@@ -1,7 +1,5 @@
 # 소프트웨어 유지보수
 
-> 추천 위치: `CS/Software-Engineering/Maintenance/`
-
 ## 1. 애플리케이션 성능 개선
 
 ### 성능 분석 지표
@@ -33,7 +31,7 @@
 
 ## 3. 소스 코드 품질 분석 도구
 
-| 구분 | 설명 | 도구 |
-|---|---|---|
-| **정적 분석 도구 (Static Analysis)** | 프로그램 실행 없이 코딩 표준/스타일/결함 등을 분석 | PMD, Checkstyle, SonarQube, cppcheck, Ccm, Cobertura |
-| **동적 분석 도구 (Dynamic Analysis)** | 프로그램 실행하여 코드 내 메모리 누수 및 스레드 결함 발견 | Avalanche, Valgrind, Valance |
+| 구분                                  | 설명                                                      | 도구                                                 |
+| ------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- |
+| **정적 분석 도구 (Static Analysis)**  | 프로그램 실행 없이 코딩 표준/스타일/결함 등을 분석        | PMD, Checkstyle, SonarQube, cppcheck, Ccm, Cobertura |
+| **동적 분석 도구 (Dynamic Analysis)** | 프로그램 실행하여 코드 내 메모리 누수 및 스레드 결함 발견 | Avalanche, Valgrind, Valance                         |
