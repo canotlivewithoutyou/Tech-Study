@@ -12,7 +12,13 @@
 
 Computer Science 기본기를 공부하고 정리합니다.
 
-- 
+- [Configuration Management](./CS/Configuration-Management)
+- [Maintenance](./CS/Maintenance)
+- [Network](./CS/Network)
+- [Process](./CS/Process)
+- [Security](./CS/Security)
+- [Software Engineering](./CS/Software-Engineering)
+- [Web](./CS/Web)
 
 <br>
 
@@ -29,7 +35,7 @@ Computer Science 기본기를 공부하고 정리합니다.
 기술 면접에서 자주 다뤄지는 질문을 정리하고  
 직접 설명할 수 있도록 답변을 작성합니다.
 
-- 
+- 업데이트 예정
 
 <br>
 
@@ -37,6 +43,7 @@ Computer Science 기본기를 공부하고 정리합니다.
 
 코딩 테스트에 필요한 알고리즘과 풀이 패턴을 정리합니다.
 
+- [Two Pointers (Sliding Window)](./Algorithm/Two_Pointers/Sliding_Window.md)
 - DFS / BFS
 - Backtracking
 - Binary Search
