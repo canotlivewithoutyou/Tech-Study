@@ -1,7 +1,6 @@
 # 웹 프로그램과 3-Tier Architecture
 
 > 학습일: 2026-10-27  
-> 출처: `Backend - Servlet.pdf`, pp. 1–5  
 > 범위: 웹 프로그램의 동작, Frontend/Backend, 3-Tier Architecture, Web Server·WAS·Container·Context
 
 ## 1. 웹 프로그램(Web Program)

@@ -6,3 +6,5 @@
 
 - **Two Pointers**
   - [Sliding Window](./Two_Pointers/Sliding_Window.md)
+- **Dynamic Programming (DP)**
+  - [Dynamic Programming](./DP/Dynamic_Programming.md)
