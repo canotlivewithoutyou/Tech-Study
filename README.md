@@ -23,6 +23,10 @@ Computer Science 핵심 이론 및 웹/소프트웨어 공학 기본기를 공�
   - [페이지 교체 알고리즘과 FIFO 기출 예제](./CS/Operating-System/Page_Replacement_Algorithms.md)
   - [운영체제 종류와 UNIX 구성 요소](./CS/Operating-System/OS_Types_and_UNIX.md)
   - [RAID (Redundant Array of Inexpensive Disks)](./CS/Operating-System/RAID.md)
+- **Database**
+  - [트랜잭션과 격리 수준](./CS/Database/Transaction-and-Isolation.md)
+  - [MVCC와 Read View](./CS/Database/MVCC-and-Read-View.md)
+  - [Phantom Read와 InnoDB 잠금 메커니즘](./CS/Database/Phantom-Read-and-InnoDB-Locks.md)
 - **Network**
   - [IPv4 주소 체계와 서브넷팅(Subnetting)](./CS/Network/ipv4-subnetting.md)
   - [클라우드 서비스 (Cloud Service)](./CS/Network/Cloud_Service.md)
