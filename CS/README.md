@@ -17,6 +17,11 @@ Computer Science 기본 개념 및 실무 웹/소프트웨어 공학 지식을 �
 - [운영체제 종류와 UNIX 구성 요소](./Operating-System/OS_Types_and_UNIX.md)
 - [RAID (Redundant Array of Inexpensive Disks)](./Operating-System/RAID.md)
 
+### 🗄️ Database (데이터베이스)
+- [트랜잭션과 격리 수준](./Database/Transaction-and-Isolation.md)
+- [MVCC와 Read View](./Database/MVCC-and-Read-View.md)
+- [Phantom Read와 InnoDB 잠금 메커니즘](./Database/Phantom-Read-and-InnoDB-Locks.md)
+
 ### 🌐 Network (네트워크)
 - [IPv4 주소 체계와 서브넷팅(Subnetting)](./Network/ipv4-subnetting.md)
 - [클라우드 서비스 (Cloud Service)](./Network/Cloud_Service.md)
