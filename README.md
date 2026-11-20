@@ -86,7 +86,8 @@ Computer Science 핵심 이론 및 웹/소프트웨어 공학 기본기를 공�
 
 백엔드 개발에 필요한 기술과 핵심 개념을 공부하고 정리합니다.
 
-- *업데이트 예정* (Spring, JPA, DB 등)
+- **Spring**
+  - [Spring과 Spring Boot의 차이](./Backend/Spring/Spring-and-Spring-Boot.md)
 
 👉 [Backend 디렉토리 바로가기](./Backend/README.md)
 
